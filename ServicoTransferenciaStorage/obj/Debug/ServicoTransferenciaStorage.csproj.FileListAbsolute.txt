@@ -1,0 +1,7 @@
+C:\Testes\servico-transferencia-storage\ServicoTransferenciaStorage\ServicoTransferenciaStorage\bin\Debug\ServicoTransferenciaStorage.exe.config
+C:\Testes\servico-transferencia-storage\ServicoTransferenciaStorage\ServicoTransferenciaStorage\bin\Debug\ServicoTransferenciaStorage.exe
+C:\Testes\servico-transferencia-storage\ServicoTransferenciaStorage\ServicoTransferenciaStorage\bin\Debug\ServicoTransferenciaStorage.pdb
+C:\Testes\servico-transferencia-storage\ServicoTransferenciaStorage\ServicoTransferenciaStorage\obj\Debug\ServicoTransferenciaStorage.csprojAssemblyReference.cache
+C:\Testes\servico-transferencia-storage\ServicoTransferenciaStorage\ServicoTransferenciaStorage\obj\Debug\ServicoTransferenciaStorage.csproj.CoreCompileInputs.cache
+C:\Testes\servico-transferencia-storage\ServicoTransferenciaStorage\ServicoTransferenciaStorage\obj\Debug\ServicoTransferenciaStorage.exe
+C:\Testes\servico-transferencia-storage\ServicoTransferenciaStorage\ServicoTransferenciaStorage\obj\Debug\ServicoTransferenciaStorage.pdb
